@@ -8,8 +8,11 @@ Run ``npm install`` to update the node modules
 
 Now run 
 
-``json-server contacts.js`` or ``npm run api2``
-``json-server db.json`` or ``npm run api``
+``json-server contacts.js`` or ``npm run api2`` for faker generated values
+
+or
+
+``json-server db.json`` or ``npm run api`` for api based on a static json
 
 Open http://localhost:3000/
 
