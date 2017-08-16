@@ -1,0 +1,151 @@
+{
+  "contacts": [
+    {
+      "id": 1,
+      "firstName": "Emmet Cole",
+      "lastName": "Crist"
+    },
+    {
+      "id": 2,
+      "firstName": "Hermina Harris",
+      "lastName": "Fisher"
+    },
+    {
+      "id": 3,
+      "firstName": "Lisa Macejkovic",
+      "lastName": "Kemmer"
+    },
+    {
+      "id": 4,
+      "firstName": "Dr. Kaia Lemke",
+      "lastName": "Rosenbaum"
+    },
+    {
+      "id": 5,
+      "firstName": "Norval Abernathy",
+      "lastName": "Lynch"
+    }
+  ],
+  "addresses": [
+    {
+      "id": 1,
+      "addressType": "Home Address",
+      "street": "5456 Lueilwitz Overpass",
+      "city": "South Lillie",
+      "state": "Oregon",
+      "postalCode": "7124",
+      "contactId": 1
+    },
+    {
+      "id": 2,
+      "addressType": "Mailing Address",
+      "street": "045 Kerluke Villages",
+      "city": "Cummingston",
+      "state": "Wisconsin",
+      "postalCode": "38570",
+      "contactId": 1
+    },
+    {
+      "id": 3,
+      "addressType": "Home Address",
+      "street": "5456 Lueilwitz Overpass",
+      "city": "South Lillie",
+      "state": "Oregon",
+      "postalCode": "7124",
+      "contactId": 2
+    },
+    {
+      "id": 4,
+      "addressType": "Mailing Address",
+      "street": "045 Kerluke Villages",
+      "city": "Cummingston",
+      "state": "Wisconsin",
+      "postalCode": "38570",
+      "contactId": 3
+    },
+    {
+      "id": 5,
+      "addressType": "Home Address",
+      "street": "045 Kerluke Villages",
+      "city": "Cummingston",
+      "state": "Wisconsin",
+      "postalCode": "38570",
+      "contactId": 4
+    },
+    {
+      "id": 6,
+      "addressType": "Home Address",
+      "street": "045 Kerluke Villages",
+      "city": "Cummingston",
+      "state": "Wisconsin",
+      "postalCode": "38570",
+      "contactId": 5
+    },
+    {
+      "id": 7,
+      "addressType": "Mailing Address",
+      "street": "045 Kerluke Villages",
+      "city": "Cummingston",
+      "state": "Wisconsin",
+      "postalCode": "38570",
+      "contactId": 5
+    }
+  ],
+  "phones": [
+    {
+      "id": 1,
+      "phoneType": "Home Phone",
+      "phoneNumber": "415-555-1212",
+      "contactId": 1
+    },
+    {
+      "id": 2,
+      "phoneType": "Mobile Phone",
+      "phoneNumber": "415-657-7682",
+      "contactId": 1
+    },
+    {
+      "id": 3,
+      "phoneType": "Home Phone",
+      "phoneNumber": "415-555-1212",
+      "contactId": 2
+    },
+    {
+      "id": 4,
+      "phoneType": "Home Phone",
+      "phoneNumber": "415-555-1212",
+      "contactId": 3
+    },
+    {
+      "id": 5,
+      "phoneType": "Mobile Phone",
+      "phoneNumber": "415-657-7682",
+      "contactId": 3
+    },
+    {
+      "id": 6,
+      "phoneType": "Home Phone",
+      "phoneNumber": "415-555-1212",
+      "contactId": 4
+    },
+    {
+      "id": 7,
+      "phoneType": "Home Phone",
+      "phoneNumber": "415-555-1212",
+      "contactId": 5
+    }
+  ],
+  "addressTypes": [
+    "Home Address",
+    "Mailing Address",
+    "Work Address",
+    "Other Address"
+  ],
+  "phoneTypes": [
+    "Home Phone",
+    "Mobile Phone",
+    "Work Phone",
+    "Main Phone",
+    "Other Phone"
+  ]
+}

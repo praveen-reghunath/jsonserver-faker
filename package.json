@@ -1,0 +1,23 @@
+{
+  "name": "jsonserver-faker",
+  "version": "1.0.0",
+  "description": "A sample rest API end point using ``json-serer`` and ``faker`` node module.",
+  "main": "index.js",
+  "scripts": {
+    "api": "json-server db.json",
+    "api2": "json-server contacts.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/praveen-reghunath/jsonserver-faker.git"
+  },
+  "author": "Praveen",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/praveen-reghunath/jsonserver-faker/issues"
+  },
+  "homepage": "https://github.com/praveen-reghunath/jsonserver-faker#readme",
+  "devDependencies": {
+    "faker": "^4.1.0"
+  }
+}
