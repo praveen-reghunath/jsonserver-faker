@@ -15,7 +15,9 @@ Open http://localhost:3000/
 
 Referances
 
-http://nmotw.in/json-server/
+http://nmotw.in/json-server/ 
+
 https://github.com/typicode/json-server
+
 https://github.com/marak/Faker.js/
 
